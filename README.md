@@ -1,5 +1,5 @@
 Atm application
-
+--
 
 Admin name--> Admin;
  passsword -->1234
@@ -11,7 +11,8 @@ user2 name-->User2;
   password-->1234
 
 -------------------------------------------------------------------------------------
-#Amazon Application
+Amazon Application
+--
 
 Admin
 Admin name--> Admin;
@@ -25,9 +26,11 @@ User
 * you have to crete a user name and pass in the new user-->new user option.
 * then you have to enter that details in the user-->Existing user to login.
 --------------------------------------------------------------------------------------
-#Railway Application
+Railway Application
+--
 
-Admin name--> Admin;
+Admin 
+name--> Admin;
 passsword -->1234
 * you have to allocate the number of seats and stations in the Admin-->Allocation option.
 
