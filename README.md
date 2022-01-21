@@ -1,18 +1,19 @@
 # Atm Application
 
-Admin name--> Admin
+Admin name--> Admin;
 passsword -->1234
 
-user1 name-->User1
+user1 name-->User1;
 password-->1234
 
-user2 name-->User2
+user2 name-->User2;
 password-->1234
+
 -------------------------------------------------------------------------------------
 #Amazon Application
 
 Admin
-Admin name--> Admin
+Admin name--> Admin;
 passsword -->1234
 
 Merchant
@@ -25,7 +26,7 @@ User
 --------------------------------------------------------------------------------------
 #Railway Application
 
-Admin name--> Admin
+Admin name--> Admin;
 passsword -->1234
 * you have to allocate the number of seats and stations in the Admin-->Allocation option.
 
