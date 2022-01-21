@@ -1,8 +1,12 @@
 Atm application
 --
 
-Admin name--> Admin;
+Admin 
+
+name--> Admin;
  passsword -->1234
+ 
+User
 
 user1 name-->User1;
    password-->1234
@@ -16,7 +20,7 @@ Amazon Application
 
 Admin
 
----------------------
+
 Admin name--> Admin;
 passsword -->1234
 
