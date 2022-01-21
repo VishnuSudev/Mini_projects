@@ -36,6 +36,7 @@ Railway Application
 --
 
 Admin 
+
 name--> Admin;
 passsword -->1234
 * you have to allocate the number of seats and stations in the Admin-->Allocation option.
