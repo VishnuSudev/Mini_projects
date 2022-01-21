@@ -15,6 +15,8 @@ Amazon Application
 --
 
 Admin
+
+---------------------
 Admin name--> Admin;
 passsword -->1234
 
